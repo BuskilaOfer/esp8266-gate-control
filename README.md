@@ -8,11 +8,6 @@ An ESP8266-based gate control system that automates gate operations based on rea
 - [Hardware Requirements](#hardware-requirements)
 - [Software Requirements](#software-requirements)
 - [Setup and Installation](#setup-and-installation)
-- [Configuration](#configuration)
-- [Operation](#operation)
-- [Functionality Overview](#functionality-overview)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
